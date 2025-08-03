@@ -201,6 +201,6 @@ See the full license at: https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 
-**Ready to play?** [🎮 Start Game](http://localhost:8000) | [📱 Download APK](FruitGame.apk)
+**Ready to play?** [🎮 Start Game](https://cryptodragonlady.github.io/fruit/) | [📱 Download APK](FruitGame.apk)
 
 Made with ❤️ and lots of fruit emojis!
