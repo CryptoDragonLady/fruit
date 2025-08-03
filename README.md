@@ -6,7 +6,7 @@ A fun and addictive physics-based puzzle game where you drop and merge fruits to
 
 ## 📸 Game Screenshot
 
-![Fruit Merge Game Screenshot](Screenshot%202025-08-03%20at%202.21.24%20PM.png)
+![Fruit Merge Game Screenshot](Screenshot.png)
 
 *Experience the addictive fruit-merging gameplay with realistic-ish physics and beautiful visual effects!*
 
