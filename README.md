@@ -2,7 +2,7 @@
 
 A fun and addictive physics-based puzzle game where you drop and merge fruits to create bigger ones! Built with vanilla JavaScript and HTML5 Canvas.
 
-![Game Preview](https://img.shields.io/badge/Game-Playable-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android-blue) ![License](https://img.shields.io/badge/License-CC--BY--SA-yellow)
+![Game Preview](https://img.shields.io/badge/Game-Playable-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android-blue) ![License](https://img.shields.io/badge/License-CC--BY--NC--SA-yellow)
 
 ## 📸 Game Screenshot
 
@@ -173,17 +173,18 @@ Contributions are welcome! Here are some ways you can help:
 
 ## 📄 License
 
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA 4.0). 
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). 
 
 **You are free to:**
 - **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+- **Adapt** — remix, transform, and build upon the material
 
 **Under the following terms:**
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **NonCommercial** — You may not use the material for commercial purposes
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
 
-See the full license at: https://creativecommons.org/licenses/by-sa/4.0/
+See the full license at: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## 🙏 Acknowledgments
 
