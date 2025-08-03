@@ -4,6 +4,12 @@ A fun and addictive physics-based puzzle game where you drop and merge fruits to
 
 ![Game Preview](https://img.shields.io/badge/Game-Playable-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android-blue) ![License](https://img.shields.io/badge/License-CC--BY--SA-yellow)
 
+## 📸 Game Screenshot
+
+![Fruit Merge Game Screenshot](Screenshot%202025-08-03%20at%202.21.24%20PM.png)
+
+*Experience the addictive fruit-merging gameplay with realistic-ish physics and beautiful visual effects!*
+
 ## 🎮 How to Play
 
 1. **Drop Fruits**: Click anywhere on the game area or use the "Drop Fruit" button to release fruits
